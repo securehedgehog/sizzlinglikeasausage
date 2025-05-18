@@ -1,0 +1,15 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Sizzling Like a Sausage"
+theme = "PaperMod"
+
+[params]
+  author = "You"
+  showReadingTime = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
