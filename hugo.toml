@@ -4,7 +4,7 @@ title = "Sizzling Like a Sausage"
 theme = "mini"
 
 [params]
-  author = "You"
+  author = "Shaz"
   showReadingTime = true
   enableComments = true 
 [menu]
