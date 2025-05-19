@@ -1,4 +1,4 @@
-baseURL = "https://sizzlinglikeasausage.com/"
+baseURL = "https://blog.sizzlinglikeasausage.com/"
 languageCode = "en-us"
 title = "Sizzling Like a Sausage"
 theme = "mini"
@@ -7,6 +7,7 @@ theme = "mini"
   author = "Shaz"
   showReadingTime = true
   enableComments = true
+
 [menu]
   [[menu.main]]
     identifier = "about"
