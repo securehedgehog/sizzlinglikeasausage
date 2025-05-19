@@ -1,7 +1,7 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Sizzling Like a Sausage"
-theme = "anatole"
+theme = "mini"
 
 [params]
   author = "You"

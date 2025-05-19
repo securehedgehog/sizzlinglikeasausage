@@ -1,7 +1,7 @@
 baseURL = "https://sizzlinglikeasausage.com/"
 languageCode = "en-us"
 title = "Sizzling Like a Sausage"
-theme = "PaperMod"
+theme = "mini"
 
 [params]
   author = "You"
