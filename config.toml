@@ -6,7 +6,7 @@ theme = "mini"
 [params]
   author = "You"
   showReadingTime = true
-
+  enableComments = true
 [menu]
   [[menu.main]]
     identifier = "about"

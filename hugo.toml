@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://sizzlinglikeasausage.com/"
 languageCode = "en-us"
 title = "Sizzling Like a Sausage"
 theme = "mini"
@@ -6,7 +6,7 @@ theme = "mini"
 [params]
   author = "You"
   showReadingTime = true
- 
+  enableComments = true 
 [menu]
   [[menu.main]]
     identifier = "about"
