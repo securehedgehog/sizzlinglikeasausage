@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:52175/posts/</loc>
+    <loc>https://sizzlinglikeasausage.com/posts/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52175/</loc>
+    <loc>https://sizzlinglikeasausage.com/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52175/posts/welcome/</loc>
+    <loc>https://sizzlinglikeasausage.com/posts/welcome/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52175/categories/</loc>
+    <loc>https://sizzlinglikeasausage.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:52175/tags/</loc>
+    <loc>https://sizzlinglikeasausage.com/tags/</loc>
   </url>
 </urlset>
