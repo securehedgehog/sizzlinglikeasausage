@@ -2,6 +2,7 @@
 title: "Welcome to our sizzling life!"
 date: 2025-05-18
 draft: false
+enableComments: true
 ---
 
 Hi there! I’m Shaz and I’m the human of a Wirehaired Dachshund called Sizzle. I wanted to start this blog because Sizzle is now over 2 years old and still loves keeping me on my toes! 
