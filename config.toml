@@ -2,11 +2,11 @@ baseURL = "https://blog.sizzlinglikeasausage.com/"
 languageCode = "en-us"
 title = "Sizzling Like a Sausage"
 theme = "mini"
+disqusShortname = "allthepaws"
 
 [params]
   author = "Shaz"
   showReadingTime = true
-  disqusShortname: allthepaws
   enableComments = true
 
 [menu]
