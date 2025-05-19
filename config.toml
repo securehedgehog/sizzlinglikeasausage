@@ -2,7 +2,7 @@ baseURL = "https://blog.sizzlinglikeasausage.com/"
 languageCode = "en-us"
 title = "Sizzling Like a Sausage"
 theme = "mini"
-disqusShortname = "allthepaws"
+disqusShortname = "allthepaws-1"
 
 [params]
   author = "Shaz"
