@@ -13,6 +13,6 @@ disqusShortname = "allpaws-1"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "/posts/welcome/"
     weight = 10
 
