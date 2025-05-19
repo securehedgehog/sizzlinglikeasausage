@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sizzling Like a Sausage</title>
-    <link>http://localhost:64889/</link>
+    <link>http://localhost:50273/</link>
     <description>Recent content on Sizzling Like a Sausage</description>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:64889/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50273/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our sizzling life!</title>
-      <link>http://localhost:64889/posts/welcome/</link>
+      <link>http://localhost:50273/posts/welcome/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64889/posts/welcome/</guid>
-      <description>&lt;p&gt;Hi there! I’m Shaz and I’m the human of a Wirehaired Dachshund called Sizzle. I wanted to start this blog because Sizzle is now over 2 years old and still loves keeping me on my toes!&lt;/p&gt;
+      
+      <guid>http://localhost:50273/posts/welcome/</guid>
+      
+        <description>&lt;p&gt;Hi there! I’m Shaz and I’m the human of a Wirehaired Dachshund called Sizzle. I wanted to start this blog because Sizzle is now over 2 years old and still loves keeping me on my toes!&lt;/p&gt;
 &lt;p&gt;Being a dog owner definitely comes with its challenges and I suppose not many talk about it, or at least not to the extent that I intend on talking about it. Before you think that I have all the answers: I do not, not even close. But what I do have, is 2 years of dog-‘motherhood’ experience which realistically, isn’t a lot. I’ve been (and I’m still going) through the rollercoaster of separation anxiety, reactivity, crate training, finding the right foods and treats and everything else that comes with being Sizzle’s mum!&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
