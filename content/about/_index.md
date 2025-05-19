@@ -1,26 +1,16 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "The journey of a first time dog mum and her small Dachshund."
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+aliases = ["about-us", "contact"]
+author = "Shaz and Sizzle"
 enableComments = false
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello! I'm Shaz and I'm the human behind Sizzling Like a Sausage. As I'm writing this section, I have little Sizzle at my feet sleeping and he's the reason for this blog! Here, you'll find useful or random details of my adventures with Sizzle. I read somewhere that we get the dog that we need, not the dog that we want and I truly think that it may be true - even if sometimes it doesn't feel like it. 
 
-Hugo makes use of a variety of open source projects including:
+Sizzle is full of personality and has taught me more than I could've ever expected and I know for a fact that I still have so much more to learn. 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Brace yourselves for some drama, funny stories, rants but more importantly: proud moments!
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+You can also follow us on Instagram @sizzlinglikeasausage if you want to keep up to date with our daily updates.
