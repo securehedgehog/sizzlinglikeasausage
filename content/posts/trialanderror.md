@@ -4,6 +4,7 @@ draft = false
 title = 'Sizzling Progress: Trial and Error'
 +++
 
+![Trial and Error](/images/sizzle03.png)
 Hello Sizzlers, 
 
 As with most things in my life, dog ownership meant that I became a full-time researcher on all things dog related. In my previous posts, I shared some of our challenges but also some wins. Now, I want to share with you an honest walkthrough of the main things we tried - what worked, what didn’t and everything in between. 
