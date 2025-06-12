@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sizzling Like a Sausage</title>
-    <link>http://localhost:59221/</link>
+    <link>http://localhost:63599/</link>
     <description>Recent content on Sizzling Like a Sausage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 19:23:29 +0100</lastBuildDate>
-    <atom:link href="http://localhost:59221/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jun 2025 10:58:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:63599/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sizzling On The Inside: Take the wins.</title>
-      <link>http://localhost:59221/posts/sizzlingontheinside/</link>
+      <title>Trial and Error</title>
+      <link>http://localhost:63599/posts/trialanderror/</link>
+      <pubDate>Thu, 12 Jun 2025 10:58:55 +0100</pubDate>
+      <guid>http://localhost:63599/posts/trialanderror/</guid>
+      <description>&lt;p&gt;Hello Sizzlers,&lt;/p&gt;&#xA;&lt;p&gt;As with most things in my life, dog ownership meant that I became a full-time researcher on all things dog related. In my previous posts, I shared some of our challenges but also some wins. Now, I want to share with you an honest walkthrough of the main things we tried - what worked, what didn’t and everything in between.&lt;/p&gt;&#xA;&lt;p&gt;I could say, &lt;em&gt;“I tried it so you don’t have to&amp;quot;&lt;/em&gt; but that’s not it - some of it was purely out of desperation and trying to trick myself into believing the fix was really that easy.  Spoiler: it usually wasn’t.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sizzling On The Inside: Take the win</title>
+      <link>http://localhost:63599/posts/sizzlingontheinside/</link>
       <pubDate>Sun, 01 Jun 2025 19:23:29 +0100</pubDate>
-      <guid>http://localhost:59221/posts/sizzlingontheinside/</guid>
-      <description>&lt;p&gt;&lt;p class=&#34;markdown-image&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:59221/images/sizzle02.png&#34; alt=&#34;Sizzle as a puppy&#34;  /&gt;&#xA;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello Sizzlers,&lt;/p&gt;&#xA;&lt;p&gt;Being a dog parent (or guardian or whatever else you prefer to call it), has definitely added to something that has always been present in my life: &lt;strong&gt;imposter syndrome&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To this day, I often find myself wondering: “Am I even cut out to look after this little puppy?”, the self-doubt crept in pretty fast since day 1 and I still battle with it. A good example: I&amp;rsquo;d go &amp;ldquo;Why can&amp;rsquo;t he settle down?” to &amp;ldquo;Hold on, why is he so quiet during the day? Is he sad? Am I not doing enough?&amp;rdquo; and that&amp;rsquo;s just the tip of the iceberg.&lt;/p&gt;</description>
+      <guid>http://localhost:63599/posts/sizzlingontheinside/</guid>
+      <description>&lt;p&gt;&lt;p class=&#34;markdown-image&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:63599/images/sizzle02.png&#34; alt=&#34;Sizzle as a puppy&#34;  /&gt;&#xA;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello Sizzlers,&lt;/p&gt;&#xA;&lt;p&gt;Being a dog parent (or guardian or whatever else you prefer to call it), has definitely added to something that has always been present in my life: &lt;strong&gt;imposter syndrome&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To this day, I often find myself wondering: “Am I even cut out to look after this little puppy?”, the self-doubt crept in pretty fast since day 1 and I still battle with it. A good example: I&amp;rsquo;d go &amp;ldquo;Why can&amp;rsquo;t he settle down?” to &amp;ldquo;Hold on, why is he so quiet during the day? Is he sad? Am I not doing enough?&amp;rdquo; and that&amp;rsquo;s just the tip of the iceberg.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sizzling Unfiltered: Chaos and Progress</title>
-      <link>http://localhost:59221/posts/sizzlingunfiltered/</link>
+      <link>http://localhost:63599/posts/sizzlingunfiltered/</link>
       <pubDate>Thu, 22 May 2025 22:37:28 +0100</pubDate>
-      <guid>http://localhost:59221/posts/sizzlingunfiltered/</guid>
-      <description>&lt;p&gt;&lt;p class=&#34;markdown-image&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:59221/images/sizzle01.png&#34; alt=&#34;Sizzle as a puppy&#34;  /&gt;&#xA;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello Sizzlers,&lt;/p&gt;&#xA;&lt;p&gt;Here comes our first real post!&lt;/p&gt;&#xA;&lt;p&gt;I wasn’t too sure what I wanted to focus on, ChatGPT suggested “A time Sizzle ate my slippers” and that didn’t really feel very inspired.&lt;/p&gt;&#xA;&lt;p&gt;When I got Sizzle, my life turned upside down. Everyone made dog ownership look so easy but for me, it wasn’t. I cried almost daily for six months. This post isn’t going to be a cute cheesy dog story, it’s the truth about what it really took me to bond with a puppy, and how I learned to become the human he needed.&lt;/p&gt;</description>
+      <guid>http://localhost:63599/posts/sizzlingunfiltered/</guid>
+      <description>&lt;p&gt;&lt;p class=&#34;markdown-image&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:63599/images/sizzle01.png&#34; alt=&#34;Sizzle as a puppy&#34;  /&gt;&#xA;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello Sizzlers,&lt;/p&gt;&#xA;&lt;p&gt;Here comes our first real post!&lt;/p&gt;&#xA;&lt;p&gt;I wasn’t too sure what I wanted to focus on, ChatGPT suggested “A time Sizzle ate my slippers” and that didn’t really feel very inspired.&lt;/p&gt;&#xA;&lt;p&gt;When I got Sizzle, my life turned upside down. Everyone made dog ownership look so easy but for me, it wasn’t. I cried almost daily for six months. This post isn’t going to be a cute cheesy dog story, it’s the truth about what it really took me to bond with a puppy, and how I learned to become the human he needed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to our sizzling life!</title>
-      <link>http://localhost:59221/posts/welcome/</link>
+      <link>http://localhost:63599/posts/welcome/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59221/posts/welcome/</guid>
+      <guid>http://localhost:63599/posts/welcome/</guid>
       <description>&lt;p&gt;Hi there! I’m Shaz and I’m the human of a Wirehaired Dachshund called Sizzle. I wanted to start this blog because Sizzle is now over 2 years old and still loves keeping me on my toes!&lt;/p&gt;&#xA;&lt;p&gt;Being a dog owner definitely comes with its challenges and not many talk about it. Before you think that I have all the answers: I do not, not even close. What I have is 2 years of dog-‘motherhood’ experience which realistically, isn’t a lot but we make do. I’ve been (and I’m still going) through the rollercoaster of separation anxiety, reactivity, crate training, finding the right foods and treats and everything else that comes with being Sizzle’s mum!&lt;/p&gt;</description>
     </item>
   </channel>

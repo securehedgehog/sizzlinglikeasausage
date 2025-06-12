@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:59221/posts/</loc>
+    <loc>http://localhost:63599/posts/</loc>
+    <lastmod>2025-06-12T10:58:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63599/</loc>
+    <lastmod>2025-06-12T10:58:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63599/posts/trialanderror/</loc>
+    <lastmod>2025-06-12T10:58:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63599/posts/sizzlingontheinside/</loc>
     <lastmod>2025-06-01T19:23:29+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:59221/</loc>
-    <lastmod>2025-06-01T19:23:29+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:59221/posts/sizzlingontheinside/</loc>
-    <lastmod>2025-06-01T19:23:29+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:59221/posts/sizzlingunfiltered/</loc>
+    <loc>http://localhost:63599/posts/sizzlingunfiltered/</loc>
     <lastmod>2025-05-22T22:37:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:59221/posts/welcome/</loc>
+    <loc>http://localhost:63599/posts/welcome/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:59221/about/</loc>
+    <loc>http://localhost:63599/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:59221/categories/</loc>
+    <loc>http://localhost:63599/categories/</loc>
   </url><url>
-    <loc>http://localhost:59221/tags/</loc>
+    <loc>http://localhost:63599/tags/</loc>
   </url>
 </urlset>

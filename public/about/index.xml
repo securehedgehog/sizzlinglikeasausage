@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Sizzling Like a Sausage</title>
-    <link>http://localhost:59221/about/</link>
+    <link>http://localhost:63599/about/</link>
     <description>Recent content in About on Sizzling Like a Sausage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:59221/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63599/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
