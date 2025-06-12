@@ -79,18 +79,15 @@ I’m not sure if I used this method wrong (probably), if it’s just not the be
 
 I tried planning our walks at times of day and places where there won’t be any dogs in the hopes this would help. It really just made things worse. I was so on edge for a while that I hated going for walks. Seeing another person with a dog in the distance would fill me with dread because I knew what was coming and that I couldn’t stop it.
 I even found myself getting angry at the other person for daring to come into the same field as us at that specific time. After all, wasn’t I there to avoid the world?
-I realize now this made Sizzle’s world incredibly small for a few months, and I’m so sorry for that. It also left me feeling pretty isolated. Avoidance was not the right solution at all.
+I realise now this made Sizzle’s world incredibly small for a few months, and I’m so sorry for that. It also left me feeling pretty isolated. Avoidance was not the right solution at all.
 
 ### 🚫 Underestimating my small dog and me
 
 I’ve had people make unkind comments such as “good thing you don’t have a bigger dog, you can’t even handle a small one”. Comments like these really stick with you. As someone that has always wanted a dog and that in the future wants a second dog that might not be so small, I even thought this myself sometimes.
 
-
 Having a smaller dog comes with its own unique challenges that medium and large dogs might not face as often. Yet again, every dog has their own challenges and I'm perfectly aware of this. But for Sizzle, everything is taller, bigger, and scarier from his perspective. Sizzle is so cute (no bias!) that people and children instantly want to pet him, make kissy noises, run up to him, or even PICK HIM UP without asking.
 
 He’s been through some tough moments, especially when he was already overwhelmed trying to make sense of the world. So I have to remind myself to give him a break and whilst I'm at it, I'll give myself a break too because we're both trying, so hard. 
-
-
 
 
 I could list many more things that worked and didn’t work for us, but these are my key takeaways. If you’re deep in the trial and error phase right now, I hope this shows you that you’re not alone, and it’s okay to try things that don’t work. What matters most is showing up for your dog and for yourself.
