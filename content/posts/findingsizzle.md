@@ -1,7 +1,7 @@
 +++
 date = '2025-06-13T11:02:21+01:00'
 draft = false
-title = 'Finding Sizzle: A short tail'
+title = 'Finding Sizzle: Bringing him home'
 +++
 
 ![Sizzle as a puppy](/images/sizzle04.png)
